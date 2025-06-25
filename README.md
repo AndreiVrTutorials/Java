@@ -17,7 +17,7 @@ This repository is divided into **8 main lessons**, each covering a key concept 
 
 | Lesson | Topic                                      | Link                                                   |
 |--------|--------------------------------------------|--------------------------------------------------------|
-| 1️⃣     | [Getting Started with Java](./lesson)     | Learn what programming is, how Java works, and write your first programme. |
+| 1️⃣     | [Getting Started with Java](./lesson1.md)     | Learn what programming is, how Java works, and write your first programme. |
 | 2️⃣     | Variables and Data Types                   | _Coming soon_                                          |
 | 3️⃣     | Control Structures (if/switch)             | _Coming soon_                                          |
 | 4️⃣     | Loops (for, while, do-while)               | _Coming soon_                                          |
