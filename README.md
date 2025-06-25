@@ -51,8 +51,9 @@ This repository is part of an open educational initiative to:
 
 ## 🌐 External Resources
 
-- Java Docs: [Oracle Java Documentation](https://docs.oracle.com/en/java/)
-- JDK Download: [Java SE Downloads](https://www.oracle.com/java/technologies/javase-downloads.html)
+- 📚 Java Docs: [Oracle Java Documentation](https://docs.oracle.com/en/java/)
+- ☕ JDK Download: [Java SE Downloads](https://www.oracle.com/java/technologies/javase-downloads.html)
+- 🛠️ NetBeans IDE: [Download NetBeans](https://netbeans.apache.org/download/index.html)
 
 ---
 
