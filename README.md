@@ -17,7 +17,7 @@ This repository is divided into **8 main lessons**, each covering a key concept 
 
 | Lesson | Topic                                      | Link                                                   |
 |--------|--------------------------------------------|--------------------------------------------------------|
-| 1️⃣     | [Getting Started with Java](./lesson1.md)     | Learn what programming is, how Java works, and write your first programme. |
+| 1️⃣     | [Getting Started with Java](https://github.com/AndreiVrTutorials/Java/blob/main/Lesson1.md) | Learn what programming is, how Java works, and write your first programme. |
 | 2️⃣     | Variables and Data Types                   | _Coming soon_                                          |
 | 3️⃣     | Control Structures (if/switch)             | _Coming soon_                                          |
 | 4️⃣     | Loops (for, while, do-while)               | _Coming soon_                                          |
@@ -30,11 +30,11 @@ This repository is divided into **8 main lessons**, each covering a key concept 
 
 ## 🧭 How to Use This Repository
 
-1. 📁 Click on any lesson above to open its folder.
-2. 📄 Start by reading the `README.md` or PDF inside.
-3. 🧠 Try running and modifying the `.java` examples.
-4. 🔗 Visit the linked blog posts for deeper insight (when available).
-5. 📌 Clone this repo to use it as your own Java learning template or teaching material.
+1. 📁 Click on any lesson above to view its content.
+2. 📄 Start by reading the Markdown or PDF document inside each lesson.
+3. 💻 Run and modify the provided `.java` examples to practise.
+4. 🔗 Check out the blog for extended posts, extra context and monetisation strategies.
+5. 🚀 Clone or fork this repository to use it as your personal Java learning base.
 
 ---
 
@@ -43,18 +43,18 @@ This repository is divided into **8 main lessons**, each covering a key concept 
 This repository is part of an open educational initiative to:
 
 - Teach Java in a clear, progressive and accessible way
-- Share knowledge through public code and blog content
-- Build a strong portfolio of real learning
-- Help others get started in tech while improving my own CV
+- Share practical examples and well-explained theory
+- Build a strong portfolio for CV enhancement
+- Monetise the learning process through educational content and blogging
 
 ---
 
 ## 🌐 External Resources
 
-- Java Documentation: [Oracle Java Docs](https://docs.oracle.com/en/java/)
-- Download Java: [JDK Downloads](https://www.oracle.com/java/technologies/javase-downloads.html)
+- Java Docs: [Oracle Java Documentation](https://docs.oracle.com/en/java/)
+- JDK Download: [Java SE Downloads](https://www.oracle.com/java/technologies/javase-downloads.html)
 
 ---
 
-Thanks for visiting – happy coding! 🚀  
-_Stay tuned for updates and new lessons coming soon._
+Thanks for stopping by – happy coding! ✨  
+Stay tuned for future lessons and improvements.
