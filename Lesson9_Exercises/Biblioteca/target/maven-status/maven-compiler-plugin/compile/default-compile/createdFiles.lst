@@ -1,0 +1,9 @@
+main\app.class
+model\Libros.class
+view\BibliotecaView$3.class
+view\BibliotecaView$4.class
+model\LibrosDao.class
+view\BibliotecaView$1.class
+view\BibliotecaView.class
+view\BibliotecaView$2.class
+model\ConexionBd.class
